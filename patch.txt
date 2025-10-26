@@ -1,0 +1,439 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000000000000000000000000000000000000..7a60b85e148f80966a550e5ab6a762a907c69ca6
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++__pycache__/
++*.pyc
+diff --git a/__pycache__/calculadora_pb2.cpython-313.pyc b/__pycache__/calculadora_pb2.cpython-313.pyc
+deleted file mode 100644
+index a4665d5c5a912ac5b8f8075867bfb2519a704aa3..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+HcmV?d00001
+
+literal 1928
+zcmb7ETTkOg7#%woC(aE5EEEtMrR5S9!j=}P?6zBF6T006n#cy8ELl!GWL-I#Xq?b4
+zPxP%))yMva_N_mmQvbk)O%=-$534@qjf#D()NgXLOQlL!*7%$=XYOZw6N`xmp4UJA
+z{qh?Dp+6ZJJ)t4E;dz99LNcOA=45`Kd%;s*ieVpMKMnM;A8?QgeH;KBqTxOc?u#!X
+zG@3$+AkB}ucE4$+FS>k$q@@vZzp@~Q<ghHtk)7Z`g<iu_%5{uT8tn`rom2w<?~s;9
+zt=z91-Qfm|PASu#-e#1jwBh<j2v#wr%<RBEu?J=qm9hiuEtyM>fzLNk!RM16dL0A2
+zHk9-NLULT0GT$3{<b*OKPXvIP<Gqw8$J)Z!mjrF<mT!8jxxN|D?%nduj<vC`8n4DP
+zbLaP;;X0;T6YHr4B~4NxW~$seJ;gLtAv(_X*!UUF5p`@;sL^N=3M}C=wLyr<B-*Ms
+zjT%<ZFtrR)XOi`*RwkyZYfY`JSr{at+%ilZ(;hqR-hEcEQ*qGwWJNP8EmPA8)w2Dm
+zSVgE3|Enh>9&0)y3MZOLD7KPuF?hz{hjUztTjR!jdyZ#3JuikNY&D40)L0!fX_?J|
+zcl(MHBYAfQ$!*b>)Ai(Z)-zUiIMDpeztnM`&_-^R@7(6FW!||>!8p59n{u$fr5`y7
+z&wA8GdHbtgn(co`J;@yur9HW~&(7qKX<-$3sVE=idQ~QV&BUmh&mH8C4|0W~lrx^e
+z31t=?K~;59QB@~VC8TQN!TCXqD7zL;M0Mjr{Y;tgDE$CY7FdvPg^044fP5=R&fKkW
+zvPQj$X<aiZ{PEaohB0%N;K&TfA1<+Q!;GXsN>2tMb%F&_(~P<kEFC{Rc%FBJ0zTCs
+z6|f{2Q`O7PB*Z|*)PR1@vHpc&Vn;0O$$9B{>8L0<Le(T?&9q?55n6i6GJc3HORM5s
+zUEiy>YK8Ibv7ABu5ovftuniknPEtLV_td=Vjv_k=)g+pZb(J)laJejJQnkjDQX$Z^
+z2_BDx>-sO~1~vn|D?yQeq#Q%7rRWB!wv=KW7pQTDmEXUkSWD?RbwuHcnlFhWmkNp}
+zBb&5Q@p6`#Y~z&^`m{#$mWiLxE$E)zVJiUTwU6VtzoLj+xk5Wv==0J0iH#<@XzLPf
+z+5YLSf1&MP==#%bf7<p3Y=3Z6&c2HY9DhBHA`4wHeJQ5jh#y=C*CL89bz{qyvE?_h
+z)oyIJ9oxM|=&>1w1;%UP3-N6v`NQr-$VQ<qTD?T8Ka0P9*+HLq`0J1Ne*3nAO16;f
+z3d``?_us!*@9>Lu=E23<_mA5Ay$-)-uV%(%#a`b4^0>{<cKD3F#%u$!YHvOS@}$kr
+XclZtaL3T*~;McDcD6~R1VLSc-9?1hv
+
+diff --git a/__pycache__/calculadora_pb2_grpc.cpython-313.pyc b/__pycache__/calculadora_pb2_grpc.cpython-313.pyc
+deleted file mode 100644
+index ceb0ba009cbac05819e63ab9d2769528c79cdfd5..0000000000000000000000000000000000000000
+GIT binary patch
+literal 0
+HcmV?d00001
+
+literal 7618
+zcmds6O>7(25q`^El1pkO$|ChITPw+uO~YoKI%Z-;cB05~U|W)9t{B8M(Zz~f(M(rd
+z=It_$)r)&6iXa8rgZl#%Xn-CX-O@vQZQ7u>9>^pGnT-p$NP)sPDwKmDK!MKelH$^#
+zQ}<9e@e?@jZ{FK^e>2~V>fPNz0_lx6{&nro<Ai*Im1goa3iTm|kXu9|lt_%^xyVq)
+z&OOv)=PczUmU>f6LTC<c<<u{6ls|wYy%z%)f;1?SRB)1{{3-8AkHbg#6o0reM42Ka
+zB}@{@pYrz*i9f+gfn(4o1yf$Acb#DEnt-(v9=qIab2fTTf~=TSW{AKnJtIU4rMgeD
+zPAl!PTYI5(pQ|+_^^FkPYxjkrFXHOkm-S4LRF|J9UP447`6xe5R<3N2)9g6eV50q7
+ziwjy#&6}c<&xnRfUsI`=))d1~4Kb}#su~47pULI3qN$4os+;<HapPD<-N@xtXFx8k
+z8nL@5;mVfp$=K8J*zt2w#v0hjQNxsBJ|m~+<(wgF`gN7AZAI6vsbZEE(qchLe^<$>
+zVlHo(il)JQIYU%Tu`x!pn4?>##r2{onm9zwt5h+8E3Id6keF7qbWu|>I#uMt`nP19
+zG*-AFX4Hb3&lsYf-wN1Y%IRlLTTE>0sJN=BilK_dLY68p$ql_o9a%Q@Oi@#DkvIzu
+z*ouof6*KzvyqmXOh@ycz<BT|F>bhpkolZN4<<Q1?lKKIt-y$gjw~ye>qpak?n+GT7
+zg*)cUdZRuow9s0SWER)&j=`vVB9ODV;koyI^WLv@F{8lJ3a}SY{hewAMM&w!Wdv42
+z{P4poQ=fy@TO`ROnqpvYBT3BFy)g-{+1knz%?H$KBCZj<tGQ83*pIQjUGhlmDK1I0
+zz1bch4d<Hse=iO0kewbNjrWmCv$vNIkjD2&r3p0mChL##TTd?N@H%NRZR#`@49?T6
+zG3(s8Yf3(^YO~_Jeg9(%PCXX<V(bam!;HDE^b_-$%vzMS`l$M9Q3d4y`X;Anxh<7i
+z{f?$FR5_!%n)_s`W^;zAQZ*xQs^&F4^A+<;#r3b~T`p>0(R()c+DbHNbrtgpy&>Dw
+z>UAwdMipcEUs5z3M78!wP1)CU$)unLEIxtC5>%NLJV*7-Mk@=8wpftNVnG0lh3`Z?
+z7H6p1hUHH?n`Yok6vf>nWDB#YBy50@%H;HHF?A`go~60h)YN<5r>X*~O<beOx}sgv
+zQ_||$luN*4ptsz0w@S2lSqA-K%Ca@&IuO(`v1X45A2&V&a+A~q5*e+8XUgH3YH#fJ
+z)QQT}v*oF0D^ttmspZ=<@yg6|<(cOyGZ)G;7phZ-Y5@{CR3ls@`a|wbz83rj4*n5e
+zhn15kM~5Jzqew=O3<Ft-`f&sE%BBh%7?fqlSU_2j<yVV}*60bzvTgJ<u#I^gy8W`8
+z(bKX_0h|!4UzXu=n7Op9m~dmjuBnDBZxcF!A3_5`Q7_p96~BRi<OgKO!+807zF}|F
+zVMLzJHs(0=JlMv7rSVB#pnk~*l$ZQ8kmaKRE9|}zfB?Xt)4Ovp7e!T&Zh#LcI#$KD
+zEN?;uEQ_a;W%=*5RTK7zIOCrFvA<{&iD_|M?P|8ST2*G-v-Qk!&allffEPWTvylSq
+zesL4f4eYuOctPL93POjN4Q0fQoTkRM2A6HcBIb4I+bn1*a;ce#ZJ)&(swpGhusF2x
+zR#1YuipB!AbSGENFRv~wE-$XEEuOWykTs*4N=`GZ@QQApZ%wsGsZO_9ipOgC8|n|9
+zzYgDd-867Z!H7F|05705*x^iKph=#G&iY9pH_077RN;rp{Ln8WzZ(C=cx5<V9*%#=
+zKV8N4(K0_;8aw$RAHUr*QJQ@AgPyq(KWAT{Z^nUA1jjUn1ee>sMffN?ZxQI(b2#P{
+z5`0&W!D>+tbzUtPl%>aQwWxYKuNEw4qHVPl-7YZNbP}7VkQ_uZjbsLit<3SZILh2s
+z>xZz4BVBs;2v(7x+B1-?p?5#^ao*FP3QckkOU^jtZbRLuw`|?`Iau>s<SJC1ltAl#
+zUz#LI(g}56^)(q2d#JG4LP#fs?HbX+flc(ZMmI|mbBcWk>3W;|t=#pk|F?8~EvcHN
+zuaR_-rcAB;QAsCxVqD(iI^Tho49yaR7TBbx8NkT1;CJ97xi2Nzr(AXyc<^1^m)!G+
+zBntp)1<-Az3Gmyne0UGyw*Y<<aJ9eDtw9&Ab$bxe9*Q8xI^aU-GT7yYYaj!h&S)xi
+z-hCK2DV_u!M1uQ3`;oMN%o=z6isoQLwj&Jy(;Bl`LrNyI*N9(hbQsnF?D>+1vezHw
+z5I{JH%JN|eJe}~D<u$C(ecv?D2L?#sU;=9bztaH{$fk}?6iiDm!hkFAGX}xgze)ZP
+z9;}4p?}y{n$k@-8ezJ5sda4qgFGuGq(WP>9>Gt7gDu?IGhvzGYrSf5E$InH2b^*8#
+zeSHV*O!SZXO5EV?Q8GAM8JK;4V74kumk!O=S!QtV=A}Dau)<B1xv970(!uzL+|yNT
+zh?co%>BvH9@#VjAR~$qDo3xiuVPmSl4dlz%IpsY-+W({gV(3>G1SOcLuOkm2Y!?qi
+z3)^Rbh+;tUxAE{DdH6P-07NQ-Sq|M)*JZeS9pymt;~2!WI}WoCnr*A}dno)TtCWBs
+z;r%HI@gs;8Jp#Lw^d#A&H_0V^Nq>@02JF~T&q35F6hZ&mHbc>zZS#&25Y*Qp3YN3+
+zy++X>(AJZ;AG-bI@$qj5X&f@kXDT$SnwDQLpho~Wz2Sk&X$UX?>W6TIVY~fWTMG{%
+zN;O@is?`NfL;(~T1~sjo>k9bP8#)CYpk!`XeiNk8i>AecN>MV3sTg<`_>P_ALip}j
+zA0qqj0b@M_<R;l2Aia@FNGylMO6X`gbhIjjt3qE@IC5JUs|W|n!oi9VFAH(II$ai~
+zE5h-zaNK4auL_Z>Fjf@?tHOxg5~+?))%KI#V>Qy#I}Ic-?L36X@ScQV1J~#(P<k1O
+z1f=5`pbcn?x5mJA_$dzg4iejScntRkLES^`kL`4{-BEBhe*4((530+D+8@M1?e_=V
+zlfSg>Pn37`@yfXsNYSnbx+#|6#DyFj^3YDpGJXvS>VM-8KpIX<%}0EFK>7!(;=$_v
+ziE95yb!e<QI$n(oRr`nQ;UVvIokboGlxk0X4Y=zliQ`z|ilTjv|7L?d{<=c*5MTwA
+z<bs75-n8|-HSl6$bwPe{ab+<v4}lo@rNxAF{?dxoCGY+B2_khiQ?qMeuLoj2vQaD)
+zbP5q4fMEd6Vsg>UX*n~e8Wc^Z)di6p=(mG7mXIidnb=gFnonPUMNOMd;O+=8+c?ZV
+zmHT{5i=T7ChG%F2_yD94<DWokEW<E=Cl@~^T_2OsC*;VT;fWF%sD{Fo(0DmCep9Fp
+zAAp7$$1#(C<KiFfKk?2|>4ld+*ng$OjeN!vZseojKs5-h@0@veUx{C+2G8%XOyB}@
+zN9ZpN94+-9d;4-J_{5Ia6F3gHqWe_o)TPohtEJ%O9X}gLFg2cZFEH=Uy&Eg70%Kw)
+zzy&0x&icB1HRAL7cKh}-(I0Q@63BL+XGWOQKcCqpkbOEk!hD<Aoy#-K^p9um5zIfY
+oU1kX%t`mltgsb;HH-ZbC{KCMO^;T&94Ef_3{)GVhC!PWNZ@nF~w*UYD
+
+diff --git a/calculadora_client.py b/calculadora_client.py
+index f3a990f687e78244b7d855e428ca043fce9389a5..8028af7189f94e01f305b7077bce826175c19258 100644
+--- a/calculadora_client.py
++++ b/calculadora_client.py
+@@ -1,41 +1,57 @@
+ # Dupla: Diogo Gomes, Vitor Hugo
+ # Fonte: https://medium.com/@studymattersinlife/building-a-simple-grpc-calculator-service-in-python-6c9a7fd33f34
+ 
++import logging
++
+ import grpc
++
+ import calculadora_pb2
+ import calculadora_pb2_grpc
++from interceptors import LoggingClientInterceptor
++
++
++logging.basicConfig(
++    level=logging.INFO,
++    format="%(asctime)s - %(levelname)s - %(message)s",
++)
+ 
+ 
+ def run():
+-    with grpc.insecure_channel('localhost:50051') as channel:
++    with grpc.insecure_channel('localhost:50051') as base_channel:
++        channel = grpc.intercept_channel(base_channel, LoggingClientInterceptor())
+         stub = calculadora_pb2_grpc.CalculadoraStub(channel)
+ 
+         while True:
+             valor1 = float(input("\nInforme o valor 1: "))
+             valor2 = float(input("Informe o valor 2: "))
+             op = input("Informe a operação ([+] add; [-] sub; [*] mul; [/] div) ou digite 'sair' para sair: ")
+ 
+             try:
+                 if op == '+':
+                     print(f"Resultado {stub.Add(calculadora_pb2.Valores(valor1=valor1, valor2=valor2)).result}\n")
+                 elif op == '-':
+                     print(f"Resultado {stub.Sub(calculadora_pb2.Valores(valor1=valor1, valor2=valor2)).result}\n")
+                 elif op == '*':
+                     print(f"Resultado {stub.Mul(calculadora_pb2.Valores(valor1=valor1, valor2=valor2)).result}\n")
+                 elif op == '/':
+-                    print(f"Resultado {stub.Div(calculadora_pb2.Valores(valor1=valor1, valor2=valor2)).result}\n")
++                    if valor2 == 0:
++                        logging.error("Divisão por zero não é permitida. Informe outro valor.")
++                        continue
++                    print(
++                        f"Resultado {stub.Div(calculadora_pb2.Valores(valor1=valor1, valor2=valor2)).result}\n"
++                    )
+                 elif op == 'sair':
+                     break
+                 else:
+-                    print(f"Operador inválido")
+-            
++                    print("Operador inválido")
++
+             except grpc.RpcError as e:
+-                print(f"\nErro gRPC: {e.code().name} - {e.details()}")
+-            
++                logging.error("Erro gRPC: %s - %s", e.code().name, e.details())
++
+             encerrar = input("Deseja encerrar [s/n]: ")
+             if encerrar == 's':
+                 break
+ 
+ 
+-if __name__=='__main__':
+-    run()
+\ No newline at end of file
++if __name__ == '__main__':
++    run()
+diff --git a/calculadora_server.py b/calculadora_server.py
+index 037cd69ed1b7980669c8db254883688058a27bd2..00b55907c19aafeaba5bc446fef838006339f9e9 100644
+--- a/calculadora_server.py
++++ b/calculadora_server.py
+@@ -1,48 +1,70 @@
+ # Dupla: Diogo Gomes, Vitor Hugo
+ # Fonte: https://medium.com/@studymattersinlife/building-a-simple-grpc-calculator-service-in-python-6c9a7fd33f34
+ 
++import logging
++from concurrent import futures
++
+ import grpc
++
+ import calculadora_pb2
+ import calculadora_pb2_grpc
+-from concurrent import futures
++from interceptors import LoggingServerInterceptor
++
++
++logging.basicConfig(
++    level=logging.INFO,
++    format="%(asctime)s - %(levelname)s - %(message)s",
++)
+ 
+ 
+ class CalculadoraService(calculadora_pb2_grpc.CalculadoraServicer):
+     def Add(self, request, context):
+-        print(f"\nCliente solicitou a operação de adição com os números {request.valor1} e {request.valor2}")
++        logging.info(
++            "Solicitação de adição: %s + %s", request.valor1, request.valor2
++        )
+         result = request.valor1 + request.valor2
+         return calculadora_pb2.Resposta(result=result)
+-    
++
+     def Sub(self, request, context):
+-        print(f"\nCliente solicitou a operação de subtração com os números {request.valor1} e {request.valor2}")
++        logging.info(
++            "Solicitação de subtração: %s - %s", request.valor1, request.valor2
++        )
+         result = request.valor1 - request.valor2
+         return calculadora_pb2.Resposta(result=result)
+-    
++
+     def Mul(self, request, context):
+-        print(f"\nCliente solicitou a operação de multiplicação com os números {request.valor1} e {request.valor2}")
++        logging.info(
++            "Solicitação de multiplicação: %s * %s", request.valor1, request.valor2
++        )
+         result = request.valor1 * request.valor2
+         return calculadora_pb2.Resposta(result=result)
+-    
++
+     def Div(self, request, context):
+-        print(f"\nCliente solicitou a operação de divisão com os números {request.valor1} e {request.valor2}")
++        logging.info(
++            "Solicitação de divisão: %s / %s", request.valor1, request.valor2
++        )
+         if request.valor2 == 0:
+             context.set_code(grpc.StatusCode.INVALID_ARGUMENT)
+             context.set_details("Divisão por zero não é permitida")
++            logging.warning("Tentativa de divisão por zero detectada")
+             return calculadora_pb2.Resposta(result=0)
+ 
+         result = request.valor1 / request.valor2
+         return calculadora_pb2.Resposta(result=result)
+ 
+ 
+ def serve():
+     port = "50051"
+-    server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
++    server = grpc.server(
++        futures.ThreadPoolExecutor(max_workers=10),
++        interceptors=[LoggingServerInterceptor()],
++    )
+     calculadora_pb2_grpc.add_CalculadoraServicer_to_server(CalculadoraService(), server)
+     server.add_insecure_port("[::]:" + port)
+     server.start()
+-    print("Server iniciado, escutando na porta " + port)
++    logging.info("Server iniciado, escutando na porta %s", port)
+     server.wait_for_termination()
+ 
+ 
+-if __name__=='__main__':
+-    serve()
+\ No newline at end of file
++if __name__ == "__main__":
++    serve()
+diff --git a/docs/README.md b/docs/README.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..8523068286da6d33e62ca00340dae1bf6071ab65
+--- /dev/null
++++ b/docs/README.md
+@@ -0,0 +1,68 @@
++# Documentação do Projeto Calculator-RPC
++
++## Visão geral
++O Calculator-RPC é um exemplo simples de aplicação distribuída construída com **gRPC** e **Python**. O projeto expõe um serviço remoto de calculadora que oferece operações aritméticas básicas (adição, subtração, multiplicação e divisão) por meio de chamadas de procedimento remoto (RPC). O objetivo é demonstrar a estrutura mínima necessária para definir um contrato `.proto`, gerar os stubs do cliente e do servidor e implementar a comunicação entre processos.
++
++## Componentes principais
++- **`calculadora.proto`** – Define o serviço `Calculadora` com quatro métodos RPC unários e as mensagens `Valores` e `Resposta`. Esse arquivo é o contrato compartilhado entre cliente e servidor.
++- **`calculadora_pb2.py` e `calculadora_pb2_grpc.py`** – Arquivos gerados automaticamente pelo `protoc` a partir do `.proto`. Eles contêm as classes de mensagens, stubs e servicers necessários para compor o RPC.
++- **`interceptors.py`** – Implementa os interceptors de log `LoggingServerInterceptor` e `LoggingClientInterceptor`, responsáveis por registrar chamadas, payloads e respostas durante o ciclo de vida das requisições.
++- **`calculadora_server.py`** – Implementa a classe `CalculadoraService`, que herda de `CalculadoraServicer`, fornece a lógica de negócio para cada operação matemática e inicializa o servidor gRPC escutando na porta `50051`. O servidor utiliza o `LoggingServerInterceptor` para registrar automaticamente todas as chamadas recebidas.
++- **`calculadora_client.py`** – Fornece uma interface de linha de comando para o usuário. O cliente utiliza o `LoggingClientInterceptor`, garantindo a rastreabilidade das chamadas e facilitando diagnósticos durante o desenvolvimento, além de validar a entrada para impedir divisões por zero antes de enviar a requisição.
++- **`tests/grpcurl_tests.sh`** – Script automatizado que utiliza `grpcurl` para validar os métodos expostos pelo serviço, incluindo o cenário de erro de divisão por zero.
++
++## Interceptores de log
++Os interceptors adicionam um nível de observabilidade às chamadas gRPC sem alterar a lógica principal do serviço ou do cliente.
++
++- **Servidor (`LoggingServerInterceptor`)**: registrado na criação do servidor. Cada chamada tem o método e os payloads solicitados e respondidos registrados via módulo `logging`. Em casos de erros, mensagens em nível `WARNING` são emitidas.
++- **Cliente (`LoggingClientInterceptor`)**: aplicado ao canal gRPC antes de criar o stub. As requisições enviadas e as respostas recebidas são logadas, e eventuais erros são registrados com nível `ERROR`.
++
++Ambos os interceptors utilizam `logging.basicConfig` para definir formato e nível de log padrão (`INFO`), permitindo que os registros sejam facilmente direcionados para arquivo ou outras soluções de observabilidade em implantações reais.
++
++## Fluxo de execução
++1. **Definição do contrato** – As operações disponíveis são descritas no arquivo `calculadora.proto`.
++2. **Geração de código** – O comando `python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. calculadora.proto` gera os módulos Python usados por cliente e servidor.
++3. **Inicialização do servidor** – Ao executar `python calculadora_server.py`, o serviço gRPC é iniciado com o interceptor de log configurado e aguarda conexões.
++4. **Interação do cliente** – O cliente abre um canal interceptado (`grpc.intercept_channel`) para `localhost:50051`, cria um stub `CalculadoraStub` e invoca os métodos remotos conforme a operação selecionada pelo usuário.
++
++## Como executar localmente
++1. Crie e ative um ambiente virtual Python (opcional, porém recomendado).
++2. Instale as dependências necessárias:
++   ```bash
++   pip install grpcio grpcio-tools grpcurl
++   ```
++3. Gere os arquivos de suporte a partir do `.proto` sempre que o contrato for atualizado:
++   ```bash
++   python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. calculadora.proto
++   ```
++4. Em um terminal, inicie o servidor:
++   ```bash
++   python calculadora_server.py
++   ```
++5. Em outro terminal, execute o cliente e siga as instruções interativas:
++   ```bash
++   python calculadora_client.py
++   ```
++
++## Testes com grpcurl
++Com o servidor em execução, o script `tests/grpcurl_tests.sh` utiliza `grpcurl` para testar todos os métodos do serviço. Ele valida operações bem-sucedidas e captura o erro esperado em uma divisão por zero:
++
++```bash
++./tests/grpcurl_tests.sh
++```
++
++Os logs gerados pelos interceptors ajudam a correlacionar as chamadas disparadas pelo script com as mensagens registradas no servidor e no cliente.
++
++## Possíveis extensões
++- Adicionar autenticação e criptografia via TLS para canais seguros.
++- Expandir o conjunto de operações (potência, raiz quadrada, etc.).
++- Criar testes automatizados utilizando `pytest` e ferramentas de mocking para gRPC.
++- Empacotar o serviço em contêineres Docker para implantação consistente.
++- Enviar os logs para uma stack de observabilidade (Elastic Stack, Grafana Loki, etc.) para monitoramento contínuo.
++
++## Referências para estudo
++- [Documentação oficial do gRPC](https://grpc.io/docs/) – Descrição completa da arquitetura, guias de linguagem e tutoriais.
++- [gRPC Basics – Python (Google Codelabs)](https://grpc.io/docs/languages/python/basics/) – Tutorial passo a passo para criar clientes e servidores gRPC em Python.
++- [Protocol Buffers Language Guide](https://protobuf.dev/programming-guides/proto3/) – Referência da linguagem Proto3 usada na definição das mensagens.
++- [Livro *Hands-On Microservices with Python* (Packt, 2019)](https://www.packtpub.com/product/hands-on-microservices-with-python/9781789134315) – Capítulos introdutórios abordam RPC, gRPC e padrões de comunicação em microservices.
++- [Artigo "Building a Simple gRPC Calculator Service in Python"](https://medium.com/@studymattersinlife/building-a-simple-grpc-calculator-service-in-python-6c9a7fd33f34) – Fonte original que inspirou a implementação deste projeto.
+diff --git a/interceptors.py b/interceptors.py
+new file mode 100644
+index 0000000000000000000000000000000000000000..1e8819e65c68b35c302efdeb60b0ea1f2fc93bbd
+--- /dev/null
++++ b/interceptors.py
+@@ -0,0 +1,68 @@
++"""Interceptors utilitários para adicionar logs às chamadas gRPC."""
++
++from __future__ import annotations
++
++import logging
++from typing import Callable, Optional
++
++import grpc
++
++
++class LoggingServerInterceptor(grpc.ServerInterceptor):
++    """Interceptor de servidor que registra o ciclo completo de cada chamada."""
++
++    def intercept_service(  # type: ignore[override]
++        self,
++        continuation: Callable[[grpc.HandlerCallDetails], Optional[grpc.RpcMethodHandler]],
++        handler_call_details: grpc.HandlerCallDetails,
++    ) -> Optional[grpc.RpcMethodHandler]:
++        method = handler_call_details.method
++        logging.info("[SERVER] Chamado método %s", method)
++
++        handler = continuation(handler_call_details)
++        if handler is None:
++            logging.warning("[SERVER] Nenhum handler encontrado para %s", method)
++            return None
++
++        if handler.unary_unary:
++
++            def logging_unary_unary(request, context):
++                logging.debug("[SERVER] Payload recebido: %s", request)
++                response = handler.unary_unary(request, context)
++                logging.debug("[SERVER] Payload de resposta: %s", response)
++                return response
++
++            return grpc.unary_unary_rpc_method_handler(
++                logging_unary_unary,
++                request_deserializer=handler.request_deserializer,
++                response_serializer=handler.response_serializer,
++            )
++
++        return handler
++
++
++class LoggingClientInterceptor(grpc.UnaryUnaryClientInterceptor):
++    """Interceptor de cliente que registra requisições e respostas."""
++
++    def intercept_unary_unary(  # type: ignore[override]
++        self,
++        continuation: Callable[[grpc.ClientCallDetails, object], grpc.Call],
++        client_call_details: grpc.ClientCallDetails,
++        request: object,
++    ) -> grpc.Call:
++        logging.info("[CLIENT] Chamando método %s", client_call_details.method)
++        logging.debug("[CLIENT] Payload enviado: %s", request)
++
++        response = continuation(client_call_details, request)
++
++        def _on_finish(call_future: grpc.Call):
++            try:
++                result = call_future.result()
++                logging.debug("[CLIENT] Payload de resposta: %s", result)
++            except grpc.RpcError as exc:  # pragma: no cover - apenas log
++                logging.error(
++                    "[CLIENT] Erro ao executar chamada %s: %s", client_call_details.method, exc
++                )
++
++        response.add_done_callback(_on_finish)
++        return response
+diff --git a/tests/grpcurl_tests.sh b/tests/grpcurl_tests.sh
+new file mode 100755
+index 0000000000000000000000000000000000000000..a843ff52d141f2e619bcc925439b05b73427a8ec
+--- /dev/null
++++ b/tests/grpcurl_tests.sh
+@@ -0,0 +1,25 @@
++#!/usr/bin/env bash
++set -euo pipefail
++
++# Script de testes utilizando grpcurl para validar o serviço de calculadora.
++# O servidor precisa estar em execução antes de rodar este script.
++
++function call_grpc() {
++  local method="$1"
++  local payload="$2"
++  echo "Executando ${method} com payload ${payload}"
++  grpcurl -plaintext -d "${payload}" localhost:50051 calculadora.Calculadora/${method}
++}
++
++call_grpc Add '{"valor1": 5, "valor2": 7}'
++call_grpc Sub '{"valor1": 10, "valor2": 3}'
++call_grpc Mul '{"valor1": 4, "valor2": 6}'
++call_grpc Div '{"valor1": 10, "valor2": 2}'
++
++# Exemplo de tratamento de erro
++set +e
++grpcurl -plaintext -d '{"valor1": 10, "valor2": 0}' localhost:50051 calculadora.Calculadora/Div
++EXIT_CODE=$?
++set -e
++
++echo "Chamada de divisão por zero retornou código ${EXIT_CODE} (esperado: erro)"
