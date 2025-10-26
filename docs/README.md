@@ -53,13 +53,6 @@ Com o servidor em execução, o script `tests/grpcurl_tests.sh` utiliza `grpcurl
 
 Os logs gerados pelos interceptors ajudam a correlacionar as chamadas disparadas pelo script com as mensagens registradas no servidor e no cliente.
 
-## Possíveis extensões
-- Adicionar autenticação e criptografia via TLS para canais seguros.
-- Expandir o conjunto de operações (potência, raiz quadrada, etc.).
-- Criar testes automatizados utilizando `pytest` e ferramentas de mocking para gRPC.
-- Empacotar o serviço em contêineres Docker para implantação consistente.
-- Enviar os logs para uma stack de observabilidade (Elastic Stack, Grafana Loki, etc.) para monitoramento contínuo.
-
 ## Referências para estudo
 - [Documentação oficial do gRPC](https://grpc.io/docs/) – Descrição completa da arquitetura, guias de linguagem e tutoriais.
 - [gRPC Basics – Python (Google Codelabs)](https://grpc.io/docs/languages/python/basics/) – Tutorial passo a passo para criar clientes e servidores gRPC em Python.
