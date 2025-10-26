@@ -64,5 +64,4 @@ Os logs gerados pelos interceptors ajudam a correlacionar as chamadas disparadas
 - [Documentação oficial do gRPC](https://grpc.io/docs/) – Descrição completa da arquitetura, guias de linguagem e tutoriais.
 - [gRPC Basics – Python (Google Codelabs)](https://grpc.io/docs/languages/python/basics/) – Tutorial passo a passo para criar clientes e servidores gRPC em Python.
 - [Protocol Buffers Language Guide](https://protobuf.dev/programming-guides/proto3/) – Referência da linguagem Proto3 usada na definição das mensagens.
-- [Livro *Hands-On Microservices with Python* (Packt, 2019)](https://www.packtpub.com/product/hands-on-microservices-with-python/9781789134315) – Capítulos introdutórios abordam RPC, gRPC e padrões de comunicação em microservices.
 - [Artigo "Building a Simple gRPC Calculator Service in Python"](https://medium.com/@studymattersinlife/building-a-simple-grpc-calculator-service-in-python-6c9a7fd33f34) – Fonte original que inspirou a implementação deste projeto.
