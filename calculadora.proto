@@ -1,0 +1,26 @@
+// Dupla: Diogo Gomes, Vitor Hugo
+
+syntax = "proto3";
+
+package calculadora;
+
+// Definição das operações
+service Calculadora {
+    rpc Add (Valores) returns (Resposta);
+    rpc Sub (Valores) returns (Resposta);
+    rpc Mul (Valores) returns (Resposta);
+    rpc Div (Valores) returns (Resposta);
+}
+
+// Mensagens
+
+// Valores a serem operados
+message Valores {
+    double valor1 = 1;
+    double valor2 = 2;
+}
+
+// Resultado da operação
+message Resposta {
+    double result = 1;
+}
